@@ -1,2 +1,5 @@
 frames/*
 src/__pycache__
+build/*
+main.spec
+dist/*
